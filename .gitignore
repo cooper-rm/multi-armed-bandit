@@ -4,8 +4,6 @@
 *.out
 *.tex
 
-# Report generator
-generate_report.py
 
 # Plot images (embedded in PDF)
 *.png
