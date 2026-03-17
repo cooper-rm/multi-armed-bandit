@@ -254,6 +254,14 @@ to code.
   \item \textbf{Connection:} The bandit is a single-state MDP with no transitions. The same incremental update rule used here extends directly to Q-learning in multi-state environments.
 \end{itemize}
 
+\section{References}
+
+\begin{enumerate}
+  \item Sutton, R. S., \& Barto, A. G. (2018). \textit{Reinforcement learning: An introduction} (2nd ed.). MIT Press.
+  \item Anthropic. (2025). Claude Code [Large language model CLI tool]. \texttt{https://claude.ai}
+  \item OpenAI. (2025). ChatGPT (GPT-4o) [Large language model]. \texttt{https://chat.openai.com}
+\end{enumerate}
+
 \end{document}
 """
 
